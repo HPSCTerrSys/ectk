@@ -4,8 +4,7 @@
 ## Installation
 
 ```sh
-cd /path/to/eCLM/namelist_generator
-pip install --user .
+pip3 install --user "git+https://github.com/HPSCTerrSys/ectk.git@legacy"
 ```
 
 ## Usage
